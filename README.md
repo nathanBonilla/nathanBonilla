@@ -1,10 +1,10 @@
-<h1 align="center"> Hi there 👋 I'm Nathan!</h1>
+<h1> Hi there 👋 I'm Nathan!</h1>
 
-[![Header](https://github.com/nathanBonilla/nathanBonilla/blob/29be12fec9e1d413388f47c9b7b40a34477725e2/githeader.jpg "Header")](https://bonillaproject.com/)
+[![Header](https://github.com/nathanBonilla/nathanBonilla/blob/53c4a80f58c6c08cff5b050c3766b60b0f317866/githeadertitle.jpg "Header")](https://bonillaproject.com/)
 
 
 
-<h3 align="center"><b>I'm a U.S. Navy Veteran with 9 years of experience in IT infrastructure with a PASSION for Software Development</b></h5>
+<h4 align="center"><b>I'm a U.S. Navy Veteran with 9 years of experience in IT infrastructure with a PASSION for Software Development!</b></h5>
 
 
 <img src="https://user-images.githubusercontent.com/71905844/166610962-521685db-6cd7-4842-b0c4-19b9ab65b66e.gif" alt="giphy-downsized-large" width="300" height="300" align="left">
@@ -13,7 +13,8 @@
 
 ## What Am I Working On Now?
 <p>
-    <li> Projects- Migrating the rest of my apps to bonillaProject.com and have them be accessible via webpage
+    <li> Projects- Migrating the rest of my apps to bonillaProject.com and have them be accessible via my portfolio
+    <li> Data Structures and Algorithms- Constantly honing problem solving and critical thinking skills!
 </p>
 
 <!--
