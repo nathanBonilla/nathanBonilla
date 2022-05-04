@@ -1,4 +1,20 @@
-# Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Nathan!</h1>
+
+[![Header](https://github.com/nathanBonilla/nathanBonilla/blob/29be12fec9e1d413388f47c9b7b40a34477725e2/githeader.jpg "Header")](https://bonillaproject.com/)
+
+
+
+<h3 align="center"><b>I'm a U.S. Navy Veteran with 9 years of experience in IT infrastructure with a PASSION for Software Development</b></h5>
+
+
+<img src="https://user-images.githubusercontent.com/71905844/166610962-521685db-6cd7-4842-b0c4-19b9ab65b66e.gif" alt="giphy-downsized-large" width="300" height="300" align="left">
+<h2> GitHub Project Updates</h2>
+<li> 04-30-2022: BonillaProject.com has been successfully migrated to utilize Django!  The next step is to migrate the projects to the new portfolio app.  I'm so excited to see everything come to fruition!
+
+## What Am I Working On Now?
+<p>
+    <li> Projects- Migrating the rest of my apps to bonillaProject.com and have them be accessible via webpage
+</p>
 
 <!--
 **nathanBonilla/nathanBonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
