@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I'm Nathan!</h1>
 
-[![Header](https://github.com/nathanBonilla/nathanBonilla/blob/53c4a80f58c6c08cff5b050c3766b60b0f317866/githeadertitle.jpg "Header")](https://bonillaproject.com/)
+[![Header](https://github.com/nathanBonilla/nathanBonilla/blob/eaab55ab09ec09d7fba97428b6458216d38af2ad/githeader.jpg "Header")](https://bonillaproject.com/)
 
 
 
