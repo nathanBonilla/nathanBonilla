@@ -9,11 +9,11 @@
 
 <img src="https://user-images.githubusercontent.com/71905844/166610962-521685db-6cd7-4842-b0c4-19b9ab65b66e.gif" alt="giphy-downsized-large" width="300" height="300" align="left">
 <h2> GitHub Project Updates</h2>
-<li> 04-30-2022: BonillaProject.com has been successfully migrated to utilize Django!  The next step is to migrate the projects to the new portfolio app.  I'm so excited to see everything come to fruition!
+<li> 05-14-2022: BonillaProject.com design overhaul!  Now that the backend is Django, it's time to migrate the frontend to React.
 
 ## What Am I Working On Now?
 <p>
-    <li> Projects- Migrating the rest of my apps to bonillaProject.com and have them be accessible via my portfolio
+    <li> Projects- I created the layout of my portfolio two months ago.  It's time to upgrade my website and showcase my refined development skills! 
     <li> Data Structures and Algorithms- Constantly honing problem solving and critical thinking skills!
 </p>
 
