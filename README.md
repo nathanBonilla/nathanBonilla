@@ -9,11 +9,11 @@
 
 <img src="https://user-images.githubusercontent.com/71905844/166610962-521685db-6cd7-4842-b0c4-19b9ab65b66e.gif" alt="giphy-downsized-large" width="300" height="300" align="left">
 <h2> GitHub Project Updates</h2>
-<li> 05-14-2022: BonillaProject.com design overhaul!  Now that the backend is Django, it's time to migrate the frontend to React.
+<li> 05-30-2022: BonillaProject.com has been deployed!  I'll be implementing responsive design for mobile, but this is a very satisfying milestone to hit.  
 
 ## What Am I Working On Now?
 <p>
-    <li> Projects- I created the layout of my portfolio two months ago.  It's time to upgrade my website and showcase my refined development skills! 
+    <li> Projects- I'm working on my own personal dashboard using React frontend and Django backend!  I'll be spending my downtime by refining my other projects.
     <li> Data Structures and Algorithms- Constantly honing problem solving and critical thinking skills!
 </p>
 
