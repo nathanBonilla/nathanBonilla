@@ -4,17 +4,18 @@
 
 
 
-<h4 align="center"><b>I'm a U.S. Navy Veteran with 9 years of experience in IT infrastructure with a PASSION for Software Development!</b></h5>
+<h3 align="center">A <b>Software Engineer</b> at <b>Oracle</b> who's ALWAYS willing to help!</h3>
 
 
 <img src="https://user-images.githubusercontent.com/71905844/166610962-521685db-6cd7-4842-b0c4-19b9ab65b66e.gif" alt="giphy-downsized-large" width="300" height="300" align="left">
 <h2> GitHub Project Updates</h2>
-<li> 05-30-2022: BonillaProject.com has been deployed!  I'll be implementing responsive design for mobile, but this is a very satisfying milestone to hit.  
+<li> 10-10-2022: BonillaProject 3.0 is underway!  Stay tuned for more!
 
 ## What Am I Working On Now?
 <p>
-    <li> Projects- I'm working on my own personal dashboard using React frontend and Django backend!  I'll be spending my downtime by refining my other projects.
-    <li> Data Structures and Algorithms- Constantly honing problem solving and critical thinking skills!
+    <li> BonillaProject 3.0 is under construction.
+    <li> ActNowEducation website and non-profit application development.
+    <li> Learning <b>ALL</b> cloud platforms.  OCI, AWS, Azure, Google Cloud
 </p>
 
 <!--
